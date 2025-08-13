@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Óscar Ruiz
 
-<!--
-**oscaruiz/oscaruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer specialized in Software Engineering** – I believe great software is not just about clean, well-architected code, but also about building strong relationships with all stakeholders to take applications to the next level.
 
-Here are some ideas to get you started:
+💼 Started my IT career in **2015**, working in **consulting** and **startup environments**, mostly within international teams.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Degree in Computer Engineering (Software Engineering track) and a postgraduate program in Video Game Design.  
+
+🌍 Strong background working in multicultural and international environments, collaborating with diverse teams across different time zones. Former member of [**AEGEE**](https://www.aegee.org/), enhancing my intercultural communication skills.  
+
+🌐 Experienced in project management and coordination, leading initiatives and workshops for international offices — including software maintenance programs — with a focus on effective communication, teamwork, and delivering value to stakeholders.
+ 
+
+---
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- [**playas-cantabria**](https://github.com/oscaruiz/playas-cantabria)  
+  Web & mobile app to check real-time status of Cantabria beaches – waves, wind, temperatures, tides, and Red Cross flag status.
+
+- [**motogpbot**](https://github.com/oscaruiz/motogpbot)  
+  Telegram bot providing MotoGP fans with race schedules, standings, and results.
+
+- [**f1spainbot**](https://github.com/oscaruiz/f1spainbot)  
+  Telegram bot for Formula 1 fans in Spain, showing driver/team rankings and next GP details.
+
+---
+
+## 🤝 Professional Strengths
+
+- Proven track record in project management for **international clients**, operating entirely in English.  
+- Committed to continuous professional development, constantly adopting new technologies and methodologies.  
+- Solid understanding of **software architecture principles**, data structures, algorithms, systems, databases, and hardware.  
+- Certified in Agile methodologies (**Scrum PSM I**) with hands-on experience in iterative project delivery.  
+- Proficient in English, with over 6 years of daily professional use as the primary working language.
+
+---
+
+📫 **Let's connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-ruiz-fern%C3%A1ndez/)
+
+---
+
+_Read this in other languages: [Español](README.es.md)_
