@@ -35,6 +35,8 @@
 - [**f1spainbot**](https://github.com/oscaruiz/f1spainbot)  
   Telegram bot for Formula 1 fans in Spain, showing driver/team rankings and next GP details.
 
+- [**One Dimension**](https://nanashigames.itch.io/one-dimension) – Arcade video game for Android (2018)  
+  Developed with Unity and C# alongside a university colleague. Reached over 500 downloads on Google Play Store. Involved in the entire development cycle: design, programming, testing, and publishing.
 ---
 
 ## 🤝 Professional Strengths
