@@ -8,7 +8,7 @@
 
 🌍 Strong background working in multicultural and international environments, collaborating with diverse teams across different time zones. Former member of [**AEGEE**](https://www.aegee.org/), enhancing my intercultural communication skills.  
 
-🌐 Experienced in project management and coordination, leading initiatives and workshops for international offices — including software maintenance programs — with a focus on effective communication, teamwork, and delivering value to stakeholders.
+🌐 Experienced in project management and coordination, leading initiatives and workshops for international offices, with a focus on effective communication, teamwork, and delivering value to stakeholders.
  
 
 ---
@@ -28,6 +28,9 @@
 
 - [**playas-cantabria**](https://github.com/oscaruiz/playas-cantabria)  
   Web & mobile app to check real-time status of Cantabria beaches – waves, wind, temperatures, tides, and Red Cross flag status.
+
+- [**myCQRS**](https://github.com/oscaruiz/myCQRS)  
+  Experimental CQRS infrastructure built from scratch in Java (Spring Boot), exploring Hexagonal Architecture, DDD, and domain event modeling. Designed as a multi-module project separating reusable core infrastructure from application contexts. Implements custom command/query/event buses, validation interceptors, and read/write model segregation with JPA and MongoDB.
 
 - [**motogpbot**](https://github.com/oscaruiz/motogpbot)  
   Telegram bot providing MotoGP fans with race schedules, standings, and results.
