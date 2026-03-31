@@ -1,60 +1,50 @@
-# 👋 Hi, I'm Óscar Ruiz
+# Hey, I'm Óscar 👋
 
-**Computer Engineer specialized in Software Engineering** – I believe great software is not just about clean, well-architected code, but also about building strong relationships with all stakeholders to take applications to the next level.
+**Software Engineer** 
 
-💼 Started my IT career in **2015**, working in **consulting** and **startup environments**, mostly within international teams.  
+~9 years across backend, full stack, and sysadmin roles - backend-focused. I care about well-modeled domains, clear boundaries between modules, and code that communicates intent.
 
-🎓 Degree in Computer Engineering (Software Engineering track) and a postgraduate program in Video Game Design.  
-
-🌍 Strong background working in multicultural and international environments, collaborating with diverse teams across different time zones. Former member of [**AEGEE**](https://www.aegee.org/), enhancing my intercultural communication skills.  
-
-🌐 Experienced in project management and coordination, leading initiatives and workshops for international offices, with a focus on effective communication, teamwork, and delivering value to stakeholders.
- 
+Currently building **[myCQRS](https://github.com/oscaruiz/myCQRS)** - a CQRS framework from scratch in Java, exploring hexagonal architecture, domain event modeling, and read/write segregation.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- [**playas-cantabria**](https://github.com/oscaruiz/playas-cantabria)  
-  Web & mobile app to check real-time status of Cantabria beaches – waves, wind, temperatures, tides, and Red Cross flag status.
+### 🏗️ [myCQRS](https://github.com/oscaruiz/myCQRS)
+Personal CQRS framework built from scratch in Java (Spring Boot). Multi-module project separating reusable core infrastructure from application contexts. Implements custom command/query/event buses, validation interceptors, and read/write model segregation with JPA and MongoDB.
 
-- [**myCQRS**](https://github.com/oscaruiz/myCQRS)  
-  Experimental CQRS infrastructure built from scratch in Java (Spring Boot), exploring Hexagonal Architecture, DDD, and domain event modeling. Designed as a multi-module project separating reusable core infrastructure from application contexts. Implements custom command/query/event buses, validation interceptors, and read/write model segregation with JPA and MongoDB.
+`Java` `Spring Boot` `CQRS` `DDD` `Hexagonal Architecture` `Event Sourcing` `JPA` `MongoDB`
 
-- [**motogpbot**](https://github.com/oscaruiz/motogpbot)  
-  Telegram bot providing MotoGP fans with race schedules, standings, and results.
+### 🏖️ [Playas Cantabria](https://github.com/oscaruiz/playas-cantabria)
+Web & mobile app showing real-time beach conditions in Cantabria - waves, wind, temperatures, tides, and Red Cross flag status.
 
-- [**f1spainbot**](https://github.com/oscaruiz/f1spainbot)  
-  Telegram bot for Formula 1 fans in Spain, showing driver/team rankings and next GP details.
+`Angular` `Ionic` `TypeScript`
 
-- [**One Dimension**](https://nanashigames.itch.io/one-dimension) – Arcade video game for Android (2018)  
-  Developed with Unity and C# alongside a university colleague. Reached over 500 downloads on Google Play Store. Involved in the entire development cycle: design, programming, testing, and publishing.
----
+### 🤖 Motorsport side projects
+Started as Telegram bots ([f1spainbot](https://github.com/oscaruiz/f1spainbot), [motogpbot](https://github.com/oscaruiz/motogpbot)), now evolved into full web apps:
+- **[F1 Hub](https://f1-hub-telegram.vercel.app/)** — F1 driver/team standings, race calendar, and live results.
+- **[MotoGP Hub](https://motogp-hub-telegram.vercel.app/en)** — MotoGP schedules, standings, and race results.
 
-## 🤝 Professional Strengths
-
-- Proven track record in project management for **international clients**, operating entirely in English.  
-- Committed to continuous professional development, constantly adopting new technologies and methodologies.  
-- Solid understanding of **software architecture principles**, data structures, algorithms, systems, databases, and hardware.  
-- Certified in Agile methodologies (**Scrum PSM I**) with hands-on experience in iterative project delivery.  
-- Proficient in English, with over 6 years of daily professional use as the primary working language.
+### 🎮 Other projects
+- **[One Dimension](https://nanashigames.itch.io/one-dimension)** — Arcade game for Android built with Unity & C# (500+ downloads).
 
 ---
 
-📫 **Let's connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-ruiz-fern%C3%A1ndez/)
-
----
+📍 Cantabria, Spain · 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-ruiz-fern%C3%A1ndez/)
 
 _Read this in other languages: [Español](README.es.md)_
