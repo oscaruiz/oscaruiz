@@ -1,57 +1,50 @@
-# 👋 Hola, soy Óscar Ruiz
+# Hola, soy Óscar 👋
 
-**Ingeniero en Informática con mención en Ingeniería de Software** – creo que el buen software no solo depende de un código limpio y bien diseñado, sino también de crear relaciones sólidas con todos los stakeholders para llevar las aplicaciones al siguiente nivel.
+**Ingeniero de Software**
 
-💼 Inicié mi carrera en IT en **2015**, trabajando en **consultoría** y **entornos startup**, en su mayoría dentro de equipos internacionales.
+~9 años en roles de backend, full stack y sysadmin — con foco en backend. Me importan los dominios bien modelados, las fronteras claras entre módulos y el código que comunica intención.
 
-🎓 Graduado en Ingeniería Informática (mención en Ingeniería de Software) y posgrado en Diseño de Videojuegos.  
-
-🌍 Amplia experiencia en entornos multiculturales e internacionales, colaborando con equipos diversos en diferentes zonas horarias. Exmiembro de [**AEGEE**](https://www.aegee.org/), lo que reforzó mis habilidades de comunicación intercultural.  
-
-🌐 Experiencia en gestión y coordinación de proyectos, liderando iniciativas y talleres para oficinas internacionales — incluyendo programas de mantenimiento de software — con un enfoque en la comunicación efectiva, el trabajo en equipo y la entrega de valor a los stakeholders.  
+Actualmente construyendo **[myCQRS](https://github.com/oscaruiz/myCQRS)** — un framework CQRS desde cero en Java, explorando arquitectura hexagonal, modelado de eventos de dominio y segregación de lectura/escritura.
 
 ---
 
-## 🛠 Stack Tecnológico
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos destacados
 
-- [**playas-cantabria**](https://github.com/oscaruiz/playas-cantabria)  
-  Aplicación web y móvil para consultar en tiempo real el estado de las playas de Cantabria – oleaje, viento, temperaturas, mareas y bandera de la Cruz Roja.
+### 🏗️ [myCQRS](https://github.com/oscaruiz/myCQRS)
+Framework CQRS personal construido desde cero en Java (Spring Boot). Proyecto multi-módulo que separa infraestructura core reutilizable de los contextos de aplicación. Implementa buses personalizados de comandos/consultas/eventos, interceptores de validación y segregación de modelos de lectura/escritura con JPA y MongoDB.
 
-- [**motogpbot**](https://github.com/oscaruiz/motogpbot)  
-  Bot de Telegram para fans de MotoGP con horarios de carreras, clasificaciones y resultados.
+`Java` `Spring Boot` `CQRS` `DDD` `Arquitectura Hexagonal` `Event Sourcing` `JPA` `MongoDB`
 
-- [**f1spainbot**](https://github.com/oscaruiz/f1spainbot)  
-  Bot de Telegram para fans de Fórmula 1 en España con rankings y detalles del próximo GP.
+### 🏖️ [Playas Cantabria](https://github.com/oscaruiz/playas-cantabria)
+App web y móvil que muestra el estado en tiempo real de las playas de Cantabria — oleaje, viento, temperaturas, mareas y estado de la bandera de Cruz Roja.
 
-- [**One Dimension**](https://nanashigames.itch.io/one-dimension) – Videojuego arcade para Android (2018)  
-  Desarrollado con Unity y C# junto a un compañero de universidad. Alcanzó más de 500 descargas en Google Play Store. Participé en todo el ciclo de desarrollo: diseño, programación, testeo y publicación.
+`Angular` `Ionic` `TypeScript`
 
----
+### 🤖 Proyectos de motor
+Empezaron como bots de Telegram ([f1spainbot](https://github.com/oscaruiz/f1spainbot), [motogpbot](https://github.com/oscaruiz/motogpbot)) y han evolucionado a aplicaciones web completas:
+- **[F1 Hub](https://f1-hub-telegram.vercel.app/)** — Clasificaciones de pilotos/equipos, calendario de carreras y resultados en directo.
+- **[MotoGP Hub](https://motogp-hub-telegram.vercel.app/en)** — Calendarios, clasificaciones y resultados de MotoGP.
 
-## 🤝 Puntos Fuertes Profesionales
-
-- Sólida trayectoria en gestión de proyectos para **clientes internacionales**, trabajando principalmente en inglés.  
-- Comprometido con el desarrollo profesional continuo, incorporando de forma constante nuevas tecnologías y metodologías.  
-- Conocimiento sólido de **principios de arquitectura de software** (SOLID), estructuras de datos, algoritmos, sistemas, bases de datos y hardware.  
-- Certificado en metodologías ágiles (**Scrum PSM I**) con experiencia práctica en entregas iterativas de proyectos.  
-- Dominio del inglés, con más de 5 años de uso profesional diario como idioma principal de trabajo.
+### 🎮 Otros proyectos
+- **[One Dimension](https://nanashigames.itch.io/one-dimension)** — Juego arcade para Android hecho con Unity y C# (500+ descargas).
 
 ---
 
-📫 **Conectemos**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-ruiz-fern%C3%A1ndez/)
+📍 Cantabria, España · 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-ruiz-fern%C3%A1ndez/)
 
----
-
-_Read this in other languages: [English](README.md)_
+_Leer en otros idiomas: [English](README.md)_
