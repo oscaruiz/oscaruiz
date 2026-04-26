@@ -18,9 +18,11 @@ Currently building **[myCQRS](https://github.com/oscaruiz/myCQRS)**, a CQRS fram
 ## Featured Projects
 
 ### [myCQRS](https://github.com/oscaruiz/myCQRS)
-Personal CQRS framework built from scratch in Java 21 / Spring Boot 3. Multi-module project separating reusable core infrastructure from application contexts. Implements custom command/query/event buses, validation interceptors, and read/write model segregation backed by JPA and MongoDB. Built as a reference implementation for hexagonal architecture and DDD patterns.
+Personal CQRS framework built from scratch in Java 21. Framework-agnostic core published as three Maven artifacts (`mycqrs-core` + Spring Boot and Micronaut integration modules) on GitHub Packages. Portability proven by three independent consumers running on Spring Boot, plain Java, and Micronaut (the latter in a separate repository). Implements outbox pattern, hexagonal architecture, DDD, and ArchUnit-enforced boundaries. The Spring Boot demo is the flagship implementation — production-shaped, with PostgreSQL + MongoDB + outbox poller — and is **deployed live at [mycqrs.onrender.com](https://mycqrs.onrender.com)**.
 
-`Java 21` `Spring Boot 3` `CQRS` `DDD` `Hexagonal Architecture` `JPA` `MongoDB`
+- **[myCQRS-micronaut](https://github.com/oscaruiz/myCQRS-micronaut)**: external Micronaut consumer of `mycqrs-core` and `mycqrs-micronaut`, in a separate repository. Implements a Subscription bounded context with hexagonal architecture and in-memory adapters; depends only on the published Maven artifacts to prove portability without monorepo conveniences.
+
+`Java 21` `Spring Boot 3` `Micronaut 4` `CQRS` `DDD` `Hexagonal Architecture` `Outbox Pattern` `GitHub Packages`
 
 ### [Playas Cantabria](https://github.com/oscaruiz/playas-cantabria)
 Web and mobile app showing real-time conditions for every beach in Cantabria: waves, wind, temperature, tides, and Red Cross flag status. Backend built in TypeScript with Express and a hexagonal architecture, scraping multiple public sources (including AEMET) with custom encoding handling. Frontend in React + Ionic with Leaflet maps, packaged for mobile via Capacitor. Deployed on Render and Firebase.
