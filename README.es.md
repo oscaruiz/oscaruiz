@@ -18,9 +18,11 @@ Actualmente desarrollando **[myCQRS](https://github.com/oscaruiz/myCQRS)**, un f
 ## Proyectos destacados
 
 ### [myCQRS](https://github.com/oscaruiz/myCQRS)
-Framework CQRS personal construido desde cero en Java 21 / Spring Boot 3. Proyecto multimódulo que separa la infraestructura core reutilizable de los contextos de aplicación. Implementa buses propios de comandos, consultas y eventos, interceptores de validación, y segregación de modelos de lectura y escritura sobre JPA y MongoDB. Pensado como implementación de referencia de arquitectura hexagonal y patrones DDD.
+Framework personal de CQRS construido desde cero en Java 21. Core agnóstico al framework publicado como tres artefactos Maven (`mycqrs-core` + módulos de integración para Spring Boot y Micronaut) en GitHub Packages. Portabilidad demostrada por tres consumidores independientes que corren sobre Spring Boot, Java sin framework, y Micronaut (este último en un repositorio separado). Implementa outbox pattern, arquitectura hexagonal, DDD, y límites arquitectónicos verificados por ArchUnit. La demo de Spring Boot es la implementación principal —estructura de producción, con PostgreSQL + MongoDB + outbox poller— y está **desplegada en vivo en [mycqrs.onrender.com](https://mycqrs.onrender.com)**.
 
-`Java 21` `Spring Boot 3` `CQRS` `DDD` `Arquitectura Hexagonal` `JPA` `MongoDB`
+- **[myCQRS-micronaut](https://github.com/oscaruiz/myCQRS-micronaut)**: consumidor externo de `mycqrs-core` y `mycqrs-micronaut` sobre Micronaut, en un repositorio separado. Implementa un bounded context de Subscription con arquitectura hexagonal y adaptadores en memoria; depende únicamente de los artefactos Maven publicados, demostrando la portabilidad sin las comodidades del monorepo.
+
+`Java 21` `Spring Boot 3` `Micronaut 4` `CQRS` `DDD` `Arquitectura Hexagonal` `Outbox Pattern` `GitHub Packages`
 
 ### [Playas Cantabria](https://github.com/oscaruiz/playas-cantabria)
 Aplicación web y móvil que muestra las condiciones en tiempo real de todas las playas de Cantabria: olas, viento, temperatura, mareas y estado de la bandera de Cruz Roja. Backend en TypeScript con Express y arquitectura hexagonal, con scraping de varias fuentes públicas (incluida AEMET) gestionando codificaciones de caracteres a medida. Frontend en React + Ionic con mapas Leaflet, empaquetado para móvil con Capacitor. Desplegado en Render y Firebase.
