@@ -27,19 +27,6 @@ Web and mobile app showing real-time conditions for every beach in Cantabria: wa
 
 `TypeScript` `Node.js` `Express` `Hexagonal Architecture` `React` `Ionic` `Leaflet` `Capacitor`
 
-### Motorsport Hubs
-Started as Python Telegram bots ([f1spainbot](https://github.com/oscaruiz/f1spainbot), [motogpbot](https://github.com/oscaruiz/motogpbot)) and grew into full web applications built with Next.js:
-
-- **[F1 Hub](https://f1-hub-telegram.vercel.app/)**: driver and constructor standings, race calendar, live session results, and Telegram session alerts. Built on Next.js App Router with `next-intl` (ES/EN) and grammY for the bot.
-- **[MotoGP Hub](https://motogp-hub-telegram.vercel.app/en)**: MotoGP schedules, standings, and race results. Also built with Next.js.
-
-`Next.js` `TypeScript` `Vercel` `Python`
-
-### Other
-- **[One Dimension](https://nanashigames.itch.io/one-dimension)**: arcade game for Android, co-developed with a friend (500+ downloads).
-
-  `C#` `Unity` `Android`
-
 ### Open-source contributions
 - **[tokensave](https://github.com/aovestdipaperino/tokensave)**: contributed 2 merged pull requests improving MCP workspace discovery, Windows path handling, and protocol initialization.
 
@@ -48,6 +35,20 @@ Started as Python Telegram bots ([f1spainbot](https://github.com/oscaruiz/f1spai
 - **[autoskills](https://github.com/midudev/autoskills)**: added technology detection for Gradle multi-module projects.
 
   `TypeScript` `Gradle` `Developer tooling`
+
+## Other Projects
+### Motorsport Hubs
+Started as Python Telegram bots ([f1spainbot](https://github.com/oscaruiz/f1spainbot), [motogpbot](https://github.com/oscaruiz/motogpbot)) and grew into full web applications built with Next.js:
+
+- **[F1 Hub](https://f1-hub-telegram.vercel.app/)**: driver and constructor standings, race calendar, live session results, and Telegram session alerts. Built on Next.js App Router with `next-intl` (ES/EN) and grammY for the bot.
+- **[MotoGP Hub](https://motogp-hub-telegram.vercel.app/en)**: MotoGP schedules, standings, and race results. Also built with Next.js.
+
+`Next.js` `TypeScript` `Vercel` `Python`
+
+### Collaborations
+- **[One Dimension](https://nanashigames.itch.io/one-dimension)**: arcade game for Android, co-developed with a friend (500+ downloads).
+
+  `C#` `Unity` `Android`
 
 ---
 
