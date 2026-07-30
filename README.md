@@ -1,8 +1,6 @@
 # Hey, I'm Óscar 👋
 
-~9 years across full stack and backend roles. I care about well-modeled domains, clear boundaries between modules, and code that communicates intent.
-
-Currently building **[myCQRS](https://github.com/oscaruiz/myCQRS)**, a CQRS framework from scratch in Java, exploring hexagonal architecture, domain event modeling, and read/write segregation.
+Senior software engineer working across the full stack, with a current focus on AI-assisted development and agentic coding workflows.
 
 ## Tech Stack
 
@@ -41,6 +39,15 @@ Started as Python Telegram bots ([f1spainbot](https://github.com/oscaruiz/f1spai
 - **[One Dimension](https://nanashigames.itch.io/one-dimension)**: arcade game for Android, co-developed with a friend (500+ downloads).
 
   `C#` `Unity` `Android`
+
+### Open-source contributions
+- **[tokensave](https://github.com/aovestdipaperino/tokensave)**: contributed 2 merged pull requests improving MCP workspace discovery, Windows path handling, and protocol initialization.
+
+  `Rust` `MCP` `Cross-platform`
+
+- **[autoskills](https://github.com/midudev/autoskills)**: added technology detection for Gradle multi-module projects.
+
+  `TypeScript` `Gradle` `Developer tooling`
 
 ---
 
